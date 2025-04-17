@@ -13,4 +13,12 @@ Welcome to my personal page!
 
 ---
 
+## Contacts
+
+- Email: liulabixwk@gmail.com
+- Peronsal Webpage: labixliu.uk
+- Linked in: https://www.linkedin.com/in/labix-liu-31b88022b/
+
+---
+
 > "If one proves the equality of two numbers a and b by showing first that “a is less than or equal to b” and then “a is greater than or equal to b”, it is unfair, one should instead show that they are really equal by disclosing the inner ground for their equality." - Emmy Noether
