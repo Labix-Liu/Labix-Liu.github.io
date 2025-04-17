@@ -16,7 +16,7 @@ Welcome to my personal page!
 ## Contacts
 
 - Email: liulabixwk@gmail.com
-- Peronsal Webpage: labix.uk (last update 2024)
+- Peronsal Webpage: https://labix.uk (last update 2024)
 - Linked in: https://www.linkedin.com/in/labix-liu-31b88022b/
 
 ---
