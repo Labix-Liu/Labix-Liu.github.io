@@ -1,5 +1,7 @@
 # Labix's Github
 
+Welcome to my personal page! 
+
 ---
 
 ## Personal Information
