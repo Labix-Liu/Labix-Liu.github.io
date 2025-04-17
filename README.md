@@ -9,7 +9,9 @@ Welcome to my personal page!
 - Final year Warwick MMath student
 - Personal interest: applied topology on data analysis
 - Strengths: Quick and Passionate Learner! Everything related to maths ranging from Algebraic Topology to Deep Learning
-- Programmning Skills: Python, Java, C++, R, SQL, LaTeX
+- Programmning Skills: Python, Java, C++, R, LaTeX
+- Machine Learning Frameworks: Tensorflow
+- Data Science Libraries: NumPy, pandas, scikit-learn
 
 ---
 
