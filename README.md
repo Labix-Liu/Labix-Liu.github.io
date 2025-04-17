@@ -12,3 +12,5 @@ Welcome to my personal page!
 - Programmning Skills: Python, Java, C++, R, SQL, LaTeX
 
 ---
+
+> "If one proves the equality of two numbers a and b by showing first that “a is less than or equal to b” and then “a is greater than or equal to b”, it is unfair, one should instead show that they are really equal by disclosing the inner ground for their equality." - Emmy Noether
