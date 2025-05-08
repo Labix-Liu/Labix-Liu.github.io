@@ -16,7 +16,7 @@ Welcome to my personal page!
 
 ## Current Projects
 
-Here are some of the projects I’m actively working on:
+Here are some of the projects I worked / am working on:
 
 - **[Options Pricing Methods](https://github.com/Labix-Liu/Option-Pricing-Methods)** — My self taught working code of some option pricing models. 
 
