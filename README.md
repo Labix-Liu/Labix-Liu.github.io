@@ -10,8 +10,7 @@ Welcome to my personal page!
 - Personal interest: applied topology on data analysis
 - Strengths: Quick and Passionate Learner! Everything related to maths ranging from Algebraic Topology to Deep Learning and Quant methods
 - Programmning Skills: Python, Java, C++, R, LaTeX
-- Machine Learning Frameworks: Tensorflow
-- Data Science Libraries: NumPy, pandas, scikit-learn
+- Libraries: NumPy, pandas, scikit-learn, Tensorflow, MatPlotLib
 
 ---
 
