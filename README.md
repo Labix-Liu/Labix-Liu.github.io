@@ -8,10 +8,20 @@ Welcome to my personal page!
 
 - Final year Warwick MMath student
 - Personal interest: applied topology on data analysis
-- Strengths: Quick and Passionate Learner! Everything related to maths ranging from Algebraic Topology to Deep Learning
+- Strengths: Quick and Passionate Learner! Everything related to maths ranging from Algebraic Topology to Deep Learning and Quant methods
 - Programmning Skills: Python, Java, C++, R, LaTeX
 - Machine Learning Frameworks: Tensorflow
 - Data Science Libraries: NumPy, pandas, scikit-learn
+
+---
+
+## Some Projects
+
+Current Projects
+
+Here are some of the projects I’m actively working on:
+
+- **[Project One](https://github.com/Labix-Liu/Option-Pricing-Methods)** — Some numerical methods for options pricing. 
 
 ---
 
