@@ -21,7 +21,7 @@ Current Projects
 
 Here are some of the projects I’m actively working on:
 
-- **[Project One](https://github.com/Labix-Liu/Option-Pricing-Methods)** — Some numerical methods for options pricing. 
+- **[Options Pricing Methods](https://github.com/Labix-Liu/Option-Pricing-Methods)** — My self taught working code of some option pricing models. 
 
 ---
 
