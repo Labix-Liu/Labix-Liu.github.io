@@ -15,9 +15,7 @@ Welcome to my personal page!
 
 ---
 
-## Some Projects
-
-Current Projects
+## Current Projects
 
 Here are some of the projects I’m actively working on:
 
