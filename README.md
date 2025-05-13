@@ -18,7 +18,7 @@ Welcome to my personal page!
 
 Here are some of the projects I worked / am working on:
 
-- **[Dissertation: Excisive Functors](https://github.com/Labix-Liu/Latex/blob/main/Masters%20Dissertation/Report.pdf)** — My MMath dissertation: The role of excisive functors in algebraic topology.
+- **[Dissertation: Excisive Functors](https://github.com/Labix-Liu/Notes/blob/main/Masters%20Dissertation/Report.pdf)** — My MMath dissertation: The role of excisive functors in algebraic topology.
 - **[Visa Time Frame Calculator](https://github.com/Labix-Liu/Visa-Day-Limit-Calculator)** — A program that computes for how many days you have left a country within a rolling 180 days time frame. 
 - **[Options Pricing Methods](https://github.com/Labix-Liu/Option-Pricing-Methods)** — My self taught working code of some option pricing models. 
 
