@@ -1,35 +1,33 @@
-# Labix's Github
+Strata by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Welcome to my personal page! 
 
----
+A simple, minimalist template that actually began life as an unused redesign of my
+personal site. Includes a (configurable) parallax background effect, Poptrox-powered
+lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
 
-## Personal Information
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-- Final year Warwick MMath student
-- Personal interest: All things about maths!
-- Strengths: Quick and Passionate Learner! Everything related to maths ranging from Algebraic Topology to Deep Learning and Quant methods
-- Programmning Skills: Python, Java, C++, R, LaTeX
-- Libraries: NumPy, pandas, scikit-learn, Tensorflow, MatPlotLib
+(* = Not included)
 
----
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-## Current Projects
+AJ
+aj@lkn.io | @ajlkn
 
-Here are some of the projects I worked / am working on:
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
-- **[Dissertation: Excisive Functors](https://github.com/Labix-Liu/Notes/blob/main/Masters%20Dissertation/Report.pdf)** — My MMath dissertation: The role of excisive functors in algebraic topology.
-- **[Visa Time Frame Calculator](https://github.com/Labix-Liu/Visa-Day-Limit-Calculator)** — A program that computes for how many days you have left a country within a rolling 180 days time frame. 
-- **[Options Pricing Methods](https://github.com/Labix-Liu/Option-Pricing-Methods)** — My self taught working code of some option pricing models. 
 
----
+Credits:
 
-## Contacts
+	Demo Images:
+		Unsplash (unsplash.com)
 
-- Email: liulabixwk@gmail.com
-- Peronsal Webpage: https://labix.uk (last update 2024)
-- Linked in: https://www.linkedin.com/in/labix-liu-31b88022b/
+	Icons:
+		Font Awesome (fontawesome.io)
 
----
-
-> "If one proves the equality of two numbers a and b by showing first that “a is less than or equal to b” and then “a is greater than or equal to b”, it is unfair, one should instead show that they are really equal by disclosing the inner ground for their equality." - Emmy Noether
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
