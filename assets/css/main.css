@@ -3224,6 +3224,7 @@ input, select, textarea {
   background-color: #FFFFFF;
   overflow: hidden;
   list-style: none;
+  top: 0;
 }
 
 /* Style the links inside the navigation bar */
